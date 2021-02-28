@@ -15,6 +15,7 @@ public class Day01 {
 		System.out.println("localden yeni satir");
 		System.out.println("localden 2.satir");
 		System.out.println("github yeni satir");
+		System.out.println("10:26 feature branch");
 	}
 
 }
