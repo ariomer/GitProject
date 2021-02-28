@@ -12,6 +12,7 @@ public class Day01 {
 		System.out.println("11:23 = github.com");
 		System.out.println("ben buradan conflict beklemiyorum...");
 		System.out.println("11:28 - bakalim conflict olacak mi");
+		System.out.println("localden yeni satir");
 	}
 
 }
