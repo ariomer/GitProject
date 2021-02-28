@@ -17,6 +17,7 @@ public class Day01 {
 		System.out.println("github yeni satir");
 		System.out.println("10:26 feature branch");
 		System.out.println("10:57 feature branch 2");
+		System.out.println("11:05 master branch");
 	}
 
 }
