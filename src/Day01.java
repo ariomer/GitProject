@@ -11,6 +11,7 @@ public class Day01 {
 		System.out.println("11:05 - Local");
 	    System.out.println("11:23 = github.com");
 	    System.out.println("ben buradan conflict beklemiyorum...");
+		System.out.println("11:28 - bakalim conflict olacak mi");
 	}
 
 }
