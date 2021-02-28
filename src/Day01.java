@@ -14,6 +14,7 @@ public class Day01 {
 		System.out.println("11:28 - bakalim conflict olacak mi");
 		System.out.println("localden yeni satir");
 		System.out.println("localden 2.satir");
+		System.out.println("github yeni satir");
 	}
 
 }
