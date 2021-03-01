@@ -23,6 +23,7 @@ public class Day01 {
 		//master
 		//featureuo
 		System.out.println("Nur hanim");
+		System.out.println("Github");
 	}
 
 }
